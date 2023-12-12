@@ -9,10 +9,9 @@
 I am recently graduated student who is looking for job opportunity and internships.-->
 <!-- loading divider -->
 <img width="1024" height="5" src="https://github.com/Dileep-royal/Dileep-royal/blob/main/assets/loader2.gif" />
-<br/>
 <!-- Profile pic -->
 <img align="right" width="500" height="450" src="https://github.com/Dileep-royal/Dileep-royal/blob/main/assets/ezgif.com-crop%20(1).gif" />
-
+<br/><br/>
 
 * 🌍  I'm based in Bengaluru, India.
 
