@@ -109,8 +109,6 @@ I am recently graduated student who is looking for job opportunity and internshi
 
 ## GitHub Stats
 <a href="http://www.github.com/Dileep-royal"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Dileep-royal&stroke=10b981&background=000000&ring=f97316&fire=f97316&currStreakNum=10b981&currStreakLabel=f97316&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
-
 <a align="right" href="http://www.github.com/Dileep-royal"><img   src="https://github-readme-stats.vercel.app/api?username=Dileep-royal&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=10b981&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Dileep-royal's GitHub stats" /></a>
-
-<!-- <a href="https://github.com/Dileep-royal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep-royal&langs_count=10&title_color=f97316&text_color=10b981&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+<a href="https://github.com/Dileep-royal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep-royal&langs_count=10&title_color=f97316&text_color=10b981&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
