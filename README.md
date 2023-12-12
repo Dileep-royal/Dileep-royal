@@ -13,6 +13,7 @@ I am recently graduated student who is looking for job opportunity and internshi
 <!-- Profile pic -->
 <img align="right" width="500" height="450" src="https://github.com/Dileep-royal/Dileep-royal/blob/main/assets/ezgif.com-crop%20(1).gif" />
 
+
 * 🌍  I'm based in Bengaluru, India.
 
 * 🧠  I'm learning JavaScript and node.js
