@@ -99,17 +99,13 @@ I am recently graduated student who is looking for job opportunity and internshi
 &nbsp;&nbsp;
 <a href="https://www.x.com/DileepY_20" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
 </picture> </a>
-&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/dileeproyal4243" target="blank"> <picture> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dileeproyal4243" height="32" width="32" />
-</picture></a>
-&nbsp;&nbsp;
-<a href="https://www.leetcode.com/dileeproyal4243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dileeproyal4243" height="32" width="42" />
-</a>
 </p>
 
 ## GitHub Stats
-<a href="http://www.github.com/Dileep-royal"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Dileep-royal&stroke=10b981&background=000000&ring=f97316&fire=f97316&currStreakNum=10b981&currStreakLabel=f97316&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
-<a align="right" href="https://github.com/Dileep-royal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep-royal&langs_count=10&title_color=f97316&text_color=10b981&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/Dileep-royal"><img   src="https://github-readme-stats.vercel.app/api?username=Dileep-royal&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=10b981&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Dileep-royal's GitHub stats" /></a>
+<a href="http://www.github.com/Dileep-royal"><img src="https://github-readme-stats.vercel.app/api?username=Dileep-royal&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Dileep-royal's GitHub stats" /></a>
+<a href="https://github.com/Dileep-royal" align="left"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep-royal&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Dileep-royal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dileep-royal&stroke=ffffff&background=000000&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
 
 
