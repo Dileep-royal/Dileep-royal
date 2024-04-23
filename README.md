@@ -85,7 +85,9 @@ I am recently graduated student who is looking for job opportunity and internshi
 
 
 ## GitHub Stats
-<a href="http://www.github.com/Dileep-royal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dileep-royal&stroke=ffffff&background=000000&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/Dileep-royal">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dileep-royal&show_icons=true&locale=en&layout=compact" alt="dileep-royal" /></p>
-<img width="495" src="https://github-readme-stats.vercel.app/api?username=Dileep-royal&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Dileep-royal's GitHub stats" /></a> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dileep-royal&show_icons=true&locale=en&layout=compact" alt="dileep-royal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dileep-royal&show_icons=true&locale=en" alt="dileep-royal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dileep-royal&" alt="dileep-royal" /></p>
 
