@@ -65,7 +65,7 @@ I am recently graduated student who is looking for job opportunity and internshi
 
 
 # Connect with me
-<p text-align="justify">
+<p align="right">
   
   <a href="https://www.codepen.io/Dileep-royal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a>
 
