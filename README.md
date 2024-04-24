@@ -31,7 +31,8 @@ I am recently graduated student who is looking for job opportunity and internshi
 
 * ⚡  Just Chill
 
-</br><img width="1024" height="5" src="https://github.com/Dileep-royal/Dileep-royal/blob/main/assets/loader2.gif" />
+</br>
+![](https://github.com/Dileep-royal/Dileep-royal/blob/main/assets/loader2.gif)
 
 # Skills
 ### Programming Languages
