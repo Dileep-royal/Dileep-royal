@@ -31,12 +31,8 @@ I am recently graduated student who is looking for job opportunity and internshi
 
 * ⚡  Just Chill
 
-<!-- 
-<a href="https://www.github.com/Dileep-royal" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/Dileep-royal?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" />
-</a><p align="left"> <img src="https://komarev.com/ghpvc/?username=dileep-royal&label=Profile%20views&color=0e75b6&style=flat" alt="dileep-royal" /> </p>
-<br/><!-- <a href="https://www.twitter.com/DileepY_20" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/DileepY_20?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"/></a> -->
-<!-- loading divider --> <img width="1024" height="5" src="https://github.com/Dileep-royal/Dileep-royal/blob/main/assets/loader2.gif" />
+
+<img width="1024" height="5" src="https://github.com/Dileep-royal/Dileep-royal/blob/main/assets/loader2.gif" />
 
 # Skills
 ### Programming Languages
@@ -61,12 +57,12 @@ I am recently graduated student who is looking for job opportunity and internshi
 </p>
 
 
-
 # Connect with me
   <p align="center">
   <a href="https://www.codepen.io/Dileep-royal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.github.com/Dileep-royal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.instagram.com/d.i.l.e.e.p_royal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dileep-y-a54214213" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.x.com/DileepY_20" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
   </p>
 
+<img width="1024" height="5" src="https://github.com/Dileep-royal/Dileep-royal/blob/main/assets/loader2.gif" />
 # GitHub Stats
 
 <a href="https://github.com/Dileep-royal" ><img width="480" align="right" height="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep-royal&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
