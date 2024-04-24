@@ -31,7 +31,7 @@ I am recently graduated student who is looking for job opportunity and internshi
 
 * ⚡  Just Chill
 
-<!-- badges -->
+<!-- 
 <a href="https://www.github.com/Dileep-royal" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/Dileep-royal?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" />
 </a><p align="left"> <img src="https://komarev.com/ghpvc/?username=dileep-royal&label=Profile%20views&color=0e75b6&style=flat" alt="dileep-royal" /> </p>
