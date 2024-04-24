@@ -38,7 +38,7 @@ I am recently graduated student who is looking for job opportunity and internshi
 <br/><!-- <a href="https://www.twitter.com/DileepY_20" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/DileepY_20?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"/></a> -->
 <!-- loading divider --> <img width="1024" height="5" src="https://github.com/Dileep-royal/Dileep-royal/blob/main/assets/loader2.gif" />
 
-## Skills
+# Skills
 ### Programming Languages
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>&nbsp;&nbsp;
@@ -68,7 +68,7 @@ I am recently graduated student who is looking for job opportunity and internshi
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
-## Connect with me
+# Connect with me
 <p align="auto"> 
 <a href="https://www.codepen.io/Dileep-royal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> 
 </picture> </a>
@@ -84,7 +84,7 @@ I am recently graduated student who is looking for job opportunity and internshi
 </picture> </a>
 </p>
 </br>
-## GitHub Stats
+# GitHub Stats
 
 <a href="https://github.com/Dileep-royal" ><img width="480" align="right" height="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep-royal&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
